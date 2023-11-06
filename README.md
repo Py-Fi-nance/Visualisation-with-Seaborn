@@ -68,7 +68,7 @@ We welcome contributions to this project. To contribute:
 
 
 ## Contact Information
-For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Visualization-tools-in-Python.
+For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Seaborn.
 For a full article walkthrough please visit > https://www.pyfi.com/blog < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
 
