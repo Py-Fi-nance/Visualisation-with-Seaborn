@@ -69,7 +69,7 @@ We welcome contributions to this project. To contribute:
 
 ## Contact Information
 For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Seaborn.
-For a full article walkthrough please visit > https://www.pyfi.com/blog < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
+For a full article walkthrough please visit > https://www.pyfi.com/blog < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://www.pyfi.com <<
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
 
 ---
